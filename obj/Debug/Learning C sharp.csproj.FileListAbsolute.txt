@@ -6,3 +6,11 @@ C:\Users\erosh\Desktop\Проги\Learning C sharp\Learning C sharp\obj\Debug\Le
 C:\Users\erosh\Desktop\Проги\Learning C sharp\Learning C sharp\obj\Debug\Learning C sharp.csproj.CoreCompileInputs.cache
 C:\Users\erosh\Desktop\Проги\Learning C sharp\Learning C sharp\obj\Debug\Learning C sharp.exe
 C:\Users\erosh\Desktop\Проги\Learning C sharp\Learning C sharp\obj\Debug\Learning C sharp.pdb
+C:\Users\erosh\Desktop\Проги\LearningCsharp\LearningCsharp\bin\Debug\Learning C sharp.exe.config
+C:\Users\erosh\Desktop\Проги\LearningCsharp\LearningCsharp\bin\Debug\Learning C sharp.exe
+C:\Users\erosh\Desktop\Проги\LearningCsharp\LearningCsharp\bin\Debug\Learning C sharp.pdb
+C:\Users\erosh\Desktop\Проги\LearningCsharp\LearningCsharp\obj\Debug\Learning C sharp.csproj.AssemblyReference.cache
+C:\Users\erosh\Desktop\Проги\LearningCsharp\LearningCsharp\obj\Debug\Learning C sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\erosh\Desktop\Проги\LearningCsharp\LearningCsharp\obj\Debug\Learning C sharp.csproj.CoreCompileInputs.cache
+C:\Users\erosh\Desktop\Проги\LearningCsharp\LearningCsharp\obj\Debug\Learning C sharp.exe
+C:\Users\erosh\Desktop\Проги\LearningCsharp\LearningCsharp\obj\Debug\Learning C sharp.pdb
