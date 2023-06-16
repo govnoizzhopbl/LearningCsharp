@@ -17,9 +17,9 @@ namespace Learning_C_sharp
         {    
             Console.WriteLine("Hello world!");
 
-            Console.WriteLine("Это изменение, которое надо замерджить 1 ");
+            Console.WriteLine("Это изменение, которое надо замерджить 111111111111 ");
 
-            Console.WriteLine("Это изменение, которое надо замерджить 2 ");
+            Console.WriteLine("Это изменение, которое надо замерджить 222222222222 ");
 
             Console.ReadLine();
         }
